@@ -1,4 +1,4 @@
-ρυ³e<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:47:"SELECT wp_posts.* FROM wp_posts WHERE ID IN (2)";s:11:"last_result";a:1:{i:0;O:8:"stdClass":23:{s:2:"ID";s:1:"2";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2024-01-26 12:00:59";s:13:"post_date_gmt";s:19:"2024-01-26 12:00:59";s:12:"post_content";s:1253:"<!-- wp:paragraph -->
+Ο+΄e<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:47:"SELECT wp_posts.* FROM wp_posts WHERE ID IN (2)";s:11:"last_result";a:1:{i:0;O:8:"stdClass":23:{s:2:"ID";s:1:"2";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2024-01-26 12:00:59";s:13:"post_date_gmt";s:19:"2024-01-26 12:00:59";s:12:"post_content";s:1253:"<!-- wp:paragraph -->
 <p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
 <!-- /wp:paragraph -->
 
