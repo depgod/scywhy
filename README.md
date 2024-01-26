@@ -55,7 +55,7 @@ Follow steps for replication:
 
 5. **Additional steps for cloning and contributing:**
 
-   wq```bash
+   ```bash
    git clone https://depgod:<personal_access_token>@github.com/depgod/scywhy.git
    ```
 
