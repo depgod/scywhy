@@ -84,3 +84,7 @@ Follow steps for replication:
   git push origin main
   ```
 
+## Contributions
+
+
+* Please email me for contributions at mailto:iamshashankpal398@gmail.com
