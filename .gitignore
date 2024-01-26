@@ -20,6 +20,8 @@
 # Configuration
 wp-config.php
 
+wp-cli.yml
+
 # Example themes
 /wp-content/themes/twenty*/
 
