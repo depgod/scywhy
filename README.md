@@ -37,16 +37,19 @@ Follow steps for replication:
 
    ```bash
    git clone https://github.com/your-username/your-repo.git
+   ```
 
 2. **Navigate to the project directory:**
 
   ```bash
   cd your-repo
+  ```
 
 3. **Create a new branch for your changes:**
 
   ```bash
   git checkout -b feature-branch
+  ```
 
 4. **Make your changes in the code**
 5. **Stage and commit your changes:**
@@ -54,10 +57,11 @@ Follow steps for replication:
   ```bash
   git add .
   git commit -m "Describe your changes here"
+  ```
 
 6. **Push your changes to github:**
 
   ```bash
   git push origin feature-branch
-
+  ```
 
