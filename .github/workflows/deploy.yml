@@ -15,6 +15,6 @@ jobs:
 
     - name: Deploy to server
       run: |
-        ssh -i /home/ubuntu/.ssh/checkserver_key.pem ubuntu@your-server 'cd /var/www/html/wordpress && git pull'
+        ssh -i /home/ubuntu/.ssh/checkserver_key.pem ubuntu@13.233.198.135 'cd /var/www/html/wordpress && git pull'
       env:
         PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
