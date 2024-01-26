@@ -1,4 +1,4 @@
-Ï+´e<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:409:"
+’2´e<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:409:"
 					SELECT   wp_posts.ID
 					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
 					WHERE 1=1  AND wp_posts.post_name IN ('header') AND ( 

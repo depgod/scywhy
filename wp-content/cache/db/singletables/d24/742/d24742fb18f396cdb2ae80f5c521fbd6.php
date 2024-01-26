@@ -1,4 +1,4 @@
-Ï+´e<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:209:"
+’2´e<?php exit; ?>a:6:{s:10:"last_error";s:0:"";s:10:"last_query";s:209:"
 					SELECT   wp_posts.ID
 					FROM wp_posts 
 					WHERE 1=1  AND wp_posts.post_type = 'wp_navigation' AND ((wp_posts.post_status = 'publish'))

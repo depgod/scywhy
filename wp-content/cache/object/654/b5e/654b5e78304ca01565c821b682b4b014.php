@@ -1,1 +1,1 @@
-8,´e<?php exit; ?>a:1:{s:7:"content";a:3:{s:17:"Activated_Akismet";b:1;s:14:"theme_switched";b:1;s:18:"crontrol_schedules";b:1;}}
+€3´e<?php exit; ?>a:1:{s:7:"content";a:10:{s:21:"sg_security_login_url";b:1;s:26:"sg_security_login_redirect";b:1;s:26:"sg_security_login_register";b:1;s:24:"sg_security_disable_feed";b:1;s:17:"sg_security_sg2fa";b:1;s:32:"sg_security_disable_activity_log";b:1;s:14:"theme_switched";b:1;s:23:"auto_core_update_failed";b:1;s:29:"_transient_timeout_doing_cron";b:1;s:17:"Activated_Akismet";b:1;}}

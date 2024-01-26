@@ -1,0 +1,1 @@
+€3´e<?php exit; ?>a:1:{s:7:"content";s:46:"{"good":"24","recommended":"1","critical":"0"}";}
