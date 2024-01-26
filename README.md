@@ -33,35 +33,66 @@ Follow steps for replication:
 
 ### Installation
 
-1. **Clone the repository:**
+1. Install Git:
+
+  ```bash
+  sudo apt install git
+  or
+  sudo dnf install git
+  or
+  sudo yum install git
+  ```
+
+2. Configure Git:
+
+  ```bash
+  git config --global user.name "Your Name"
+  git config --global user.email "your.email@example.com"
+  ```
+
+3. Configure to use personal access token:
+
+  ```bash
+  git config --global credential.helper store
+  ```
+
+4. Verify Git installation:
+
+  ```bash
+  git --version
+  git config --get user.name
+  git config --get user.email
+  ```
+
+5. **Additional steps for cloning and contributing:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://depgod:<personal_access_token>@github.com/depgod/scywhy.git
    ```
 
-2. **Navigate to the project directory:**
+6. **Navigate to the project directory:**
 
   ```bash
-  cd your-repo
+  cd scywhy
   ```
 
-3. **Create a new branch for your changes:**
+7. **Create a new branch for your changes:**
 
   ```bash
-  git checkout -b feature-branch
+  git checkout -b main
   ```
 
-4. **Make your changes in the code**
-5. **Stage and commit your changes:**
+8. **Make your changes in the code**
+9. **Stage and commit your changes:**
 
   ```bash
   git add .
   git commit -m "Describe your changes here"
   ```
 
-6. **Push your changes to github:**
+10. **Push your changes to github:**
 
   ```bash
-  git push origin feature-branch
+  git push origin main
   ```
 
