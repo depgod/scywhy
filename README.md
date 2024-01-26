@@ -18,22 +18,11 @@ Demo Wordpress Template
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-## Introduction
+## Steps for local setup
 
 Follow steps for replication:
 
-## Getting Started
-
-### Prerequisites
-
-
-- [Prerequisite 1]
-- [Prerequisite 2]
-- ...
-
-### Installation
-
-1. Install Git:
+1. **Install Git:**
 
   ```bash
   sudo apt install git
@@ -43,20 +32,20 @@ Follow steps for replication:
   sudo yum install git
   ```
 
-2. Configure Git:
+2. **Configure Git:**
 
   ```bash
   git config --global user.name "Your Name"
   git config --global user.email "your.email@example.com"
   ```
 
-3. Configure to use personal access token:
+3. **Configure to use personal access token:**
 
   ```bash
   git config --global credential.helper store
   ```
 
-4. Verify Git installation:
+4. **Verify Git installation:**
 
   ```bash
   git --version
@@ -66,7 +55,7 @@ Follow steps for replication:
 
 5. **Additional steps for cloning and contributing:**
 
-   ```bash
+   wq```bash
    git clone https://depgod:<personal_access_token>@github.com/depgod/scywhy.git
    ```
 
