@@ -1,8 +1,6 @@
 # ScyWhy Wordpress 
 ![Workflow-Badge](https://github.com/depgod/scywhy/actions/workflows/deploy.yml/badge.svg)
 
-# ScyWhy Project
-
 Demo Wordpress Template
 
 ## Table of Contents
