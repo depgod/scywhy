@@ -11,14 +11,13 @@ Demo Wordpress Template
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-  - [Running Deployments](#running-deployments)
-  - [Making Changes](#making-changes)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
-## Steps for local setup
+## Introduction
+
+This is a wordpress template that uses github actions for ci/cd mechanisms and direct to server deployments.
+
+## Getting Started
 
 Follow steps for replication:
 
