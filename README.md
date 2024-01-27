@@ -82,6 +82,8 @@ Follow steps for replication:
   git push origin main
   ```
 
+  Wait for code review and push.
+
 ## Contributions
 
 
