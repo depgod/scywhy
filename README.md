@@ -7,9 +7,7 @@ Demo Wordpress Template
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Contributions](#contributing)
+- [Contributions](#contributions)
 
 ## Introduction
 
