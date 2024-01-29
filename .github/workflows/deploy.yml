@@ -8,11 +8,6 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    services:
-      nginx:
-        image: nginx
-      php:
-        image: php:8.3-fpm
 
     steps:
     - name: Checkout code
