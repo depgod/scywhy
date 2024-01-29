@@ -21,5 +21,10 @@ jobs:
         git config --global user.email "iamshashankpal398@gmail.com"
         git config --global user.name "depgod"
         git pull https://github.com/depgod/scywhy.git main
+        echo "#!/bin/bash" > deploy-script.sh
+        echo "sudo /bin/systemctl reload php8.3-fpm.service" >> deploy-script.sh
+        echo "sudo /bin/systemctl reload nginx.service" >> deploy-script.sh
+        chmod +x deploy-script.sh
+        ./deploy-script.sh
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
