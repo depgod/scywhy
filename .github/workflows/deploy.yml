@@ -21,8 +21,6 @@ jobs:
         git config --global user.email "iamshashankpal398@gmail.com"
         git config --global user.name "depgod"
         git pull https://github.com/depgod/scywhy.git main
-        sudo service php8.3-fpm.service reload
-        sleep 5
         sudo /bin/systemctl reload nginx.service
         sleep 5
       env:
