@@ -26,7 +26,7 @@ jobs:
         git config --global user.email "iamshashankpal398@gmail.com"
         git config --global user.name "depgod"
         git pull https://github.com/depgod/scywhy.git main
-        /bin/systemctl reload nginx.service
-        /bin/systemctl reload php8.3-fpm.service
+        sudo systemctl reload nginx.service
+        sudo systemctl reload php8.3-fpm.service
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
