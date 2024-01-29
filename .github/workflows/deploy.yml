@@ -21,6 +21,5 @@ jobs:
         git config --global user.email "iamshashankpal398@gmail.com"
         git config --global user.name "depgod"
         git pull https://github.com/depgod/scywhy.git main
-        /usr/sbin/service nginx reload
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
