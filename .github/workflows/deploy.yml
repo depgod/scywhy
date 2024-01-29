@@ -27,6 +27,7 @@ jobs:
         git config --global user.name "depgod"
         git pull https://github.com/depgod/scywhy.git main
         sudo systemctl reload php8.3-fpm.service
+        sleep 5
         sudo systemctl reload nginx.service
         sleep 5
       env:
